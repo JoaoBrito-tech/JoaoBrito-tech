@@ -1,16 +1,15 @@
-## Hi there 👋
+Oi, Eu sou o João Paulo Brito da Silva
 
-<!--
-**JoaoBrito-tech/JoaoBrito-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Desenvolvimento de Sistemas na ETEC de Hortolândia. Meu interesse se encontra no Desenvolvimento Web e Mobile.
 
-Here are some ideas to get you started:
+Linguagens: JavaScript, C e C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens de marcação: CSS e HTML
+
+Desenvolvimento web: React
+
+Desenvolvimento mobile: React Native
+
+Banco de dados: SQL
+
+Atualmente: Aprimorando minhas habilidades em desenvolvimento de software.
